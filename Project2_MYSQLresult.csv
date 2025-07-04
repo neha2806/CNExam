@@ -1,0 +1,51 @@
+EmployeeID,Department,Age,Salary,SatisfactionScore,Attrition
+304eefc9,HR,46,96370,2,No
+a525db8f,Manager,22,86770,3,No
+b0acb00e,"Sales Executive",39,57072,3,Yes
+91015b9b,HR,40,97978,1,No
+656dd1c5,HR,38,103437,3,No
+262e6b5a,"Sales Executive",26,31012,2,Yes
+5deccf9b,HR,50,67449,1,Yes
+36abb44d,"Sales Executive",41,77602,1,No
+a1f5a973,HR,55,99391,2,Yes
+f75beffb,HR,49,110492,4,Yes
+f27270ab,"Sales Executive",48,81515,2,No
+ab6e1a27,HR,34,46693,3,No
+bde9595f,Developer,43,75379,2,No
+ac376597,Manager,29,29006,2,No
+aab7c791,"Sales Executive",33,69327,1,Yes
+67e86eab,"Sales Executive",51,97440,1,No
+37a108f5,Developer,54,77508,2,Yes
+30faccbc,Manager,25,118595,2,Yes
+a0fd40cc,"Sales Executive",40,91212,4,No
+86bd9de7,Manager,27,116257,3,Yes
+f8cc20e1,Manager,29,112234,3,Yes
+102e7dda,HR,29,63936,4,No
+0d5211f7,HR,36,67958,2,Yes
+b5b084b3,Manager,52,54119,1,Yes
+52f22b16,HR,46,104764,3,No
+7b0b7217,HR,30,50613,3,Yes
+da4bf4ec,"Sales Executive",45,74040,2,No
+7ebebd2c,HR,23,93287,3,No
+6dbc9acf,Developer,43,114439,4,No
+89b85f66,HR,41,49475,1,Yes
+3db008cc,"Sales Executive",33,47046,1,Yes
+5bf2a4f0,Manager,47,33543,4,No
+d62d609f,HR,35,47318,1,No
+7a0d8859,HR,54,63943,2,No
+7fca18b0,"Sales Executive",41,32392,3,No
+15b70b7b,Developer,51,81360,2,No
+37d0c2bc,HR,51,60039,4,Yes
+1693caa1,"Sales Executive",34,87543,1,No
+fae2a086,Manager,28,78733,2,Yes
+8118982,Developer,48,70227,1,Yes
+8fa58be9,"Sales Executive",31,36916,1,No
+1fabf257,HR,43,29238,1,Yes
+4f62e549,"Sales Executive",28,92927,4,Yes
+1c97d3f1,Manager,46,79137,1,No
+71bbc37f,"Sales Executive",51,104427,2,No
+e3397d01,"Sales Executive",59,70331,2,Yes
+c922b9ec,HR,47,71953,2,Yes
+2662420e,"Sales Executive",49,80685,1,No
+c7594ada,HR,32,86422,4,Yes
+b7f417e7,Developer,39,94708,4,Yes

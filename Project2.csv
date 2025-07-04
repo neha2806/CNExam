@@ -1,0 +1,51 @@
+EmployeeID,Age,Gender,JobRole,MonthlyIncome,YearsAtCompany,EnvironmentSatisfaction,Attrition
+304eefc9,46,Female,HR,96370,5,2,No
+a525db8f,22,Male,Manager,86770,0,3,No
+b0acb00e,39,Male,Sales Executive,57072,6,3,Yes
+91015b9b,40,Male,HR,97978,1,1,No
+656dd1c5,38,Female,HR,103437,18,3,No
+262e6b5a,26,Female,Sales Executive,31012,9,2,Yes
+5deccf9b,50,Male,HR,67449,13,1,Yes
+36abb44d,41,Female,Sales Executive,77602,10,1,No
+a1f5a973,55,Female,HR,99391,19,2,Yes
+f75beffb,49,Male,HR,110492,11,4,Yes
+f27270ab,48,Female,Sales Executive,81515,6,2,No
+ab6e1a27,34,Female,HR,46693,3,3,No
+bde9595f,43,Female,Developer,75379,11,2,No
+ac376597,29,Male,Manager,29006,0,2,No
+aab7c791,33,Female,Sales Executive,69327,18,1,Yes
+67e86eab,51,Male,Sales Executive,97440,3,1,No
+37a108f5,54,Male,Developer,77508,2,2,Yes
+30faccbc,25,Female,Manager,118595,12,2,Yes
+a0fd40cc,40,Female,Sales Executive,91212,18,4,No
+86bd9de7,27,Female,Manager,116257,12,3,Yes
+f8cc20e1,29,Male,Manager,112234,13,3,Yes
+102e7dda,29,Male,HR,63936,18,4,No
+0d5211f7,36,Male,HR,67958,16,2,Yes
+b5b084b3,52,Female,Manager,54119,13,1,Yes
+52f22b16,46,Male,HR,104764,3,3,No
+7b0b7217,30,Male,HR,50613,4,3,Yes
+da4bf4ec,45,Female,Sales Executive,74040,17,2,No
+7ebebd2c,23,Male,HR,93287,10,3,No
+6dbc9acf,43,Male,Developer,114439,0,4,No
+89b85f66,41,Male,HR,49475,11,1,Yes
+3db008cc,33,Female,Sales Executive,47046,6,1,Yes
+5bf2a4f0,47,Female,Manager,33543,11,4,No
+d62d609f,35,Female,HR,47318,17,1,No
+7a0d8859,54,Female,HR,63943,1,2,No
+7fca18b0,41,Female,Sales Executive,32392,1,3,No
+15b70b7b,51,Female,Developer,81360,9,2,No
+37d0c2bc,51,Male,HR,60039,11,4,Yes
+1693caa1,34,Male,Sales Executive,87543,13,1,No
+fae2a086,28,Female,Manager,78733,10,2,Yes
+8118982,48,Male,Developer,70227,14,1,Yes
+8fa58be9,31,Male,Sales Executive,36916,18,1,No
+1fabf257,43,Female,HR,29238,2,1,Yes
+4f62e549,28,Male,Sales Executive,92927,7,4,Yes
+1c97d3f1,46,Female,Manager,79137,10,1,No
+71bbc37f,51,Male,Sales Executive,104427,19,2,No
+e3397d01,59,Female,Sales Executive,70331,12,2,Yes
+c922b9ec,47,Male,HR,71953,5,2,Yes
+2662420e,49,Female,Sales Executive,80685,17,1,No
+c7594ada,32,Male,HR,86422,14,4,Yes
+b7f417e7,39,Male,Developer,94708,3,4,Yes
